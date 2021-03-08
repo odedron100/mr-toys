@@ -13,6 +13,7 @@ export const toyService = {
   remove,
   save,
   getEmptyToy,
+
 }
 
 var gToy = _createToys()
@@ -67,6 +68,19 @@ function save(toy) {
 //     const idx = gtoys.findIndex(currtoy => currtoy._id === toy._id)
 //     gtoys.splice(idx, 1, toy)
 //     return toy
+// }
+
+// function filter(newFilterBy) {
+//   storageService.query(KEY)
+//     .then(toys => {
+//       console.log('toys', toys);
+//       if (newFilterBy === 'all') return toys;
+//       else if (newFilterBy === 'in Stock') return toys.filter(toy => toy.inStock)
+//       else {
+//         return toys.filter(toy => !toy.inStock)
+//       }
+//     })
+//   return newFilterBy;
 // }
 
 function getEmptyToy() {

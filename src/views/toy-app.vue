@@ -1,14 +1,18 @@
 
 <template>
     <div class="toy-app-container">
-          <toy-list :toys="toys" @emptyToyToEdit="emptyToyToEdit" @onToyClicked="onToyClicked"/>
-           <button class="add-toy" @click="addToy">Add new toy</button>
+        <toy-filter @setFilter="setFilter"/>
+        <toy-list :toys="toysToShow" @emptyToyToEdit="emptyToyToEdit" @onToyClicked="onToyClicked"/>
+        <button class="add-toy" @click="addToy">Add new toy</button>
         <input type="text" placeholder="New toy.." v-model="toyToEdit.name" />
     </div>
 </template>
 <script>
 import { toyService } from '../services/toy-service.js'
 import toyList from '@/cmps/toy-list.vue'
+import toyFilter from '@/cmps/toy-filter.vue'
+import { showMsg } from '../services/event-bus.service.js'
+// import userMsg from '@/cmps/user-msg.vue'
   export default {
     data() {
         return {
@@ -18,15 +22,10 @@ import toyList from '@/cmps/toy-list.vue'
     computed: {
         toys(){
          return this.$store.getters.toys
-        }
-        // toysToShow() {
-        //     var toys = this.$store.getters.toys
-        //     if (this.filterBy === 'all') return toys;
-        //     else if (this.filterBy === 'in Stock') return toys.filter(toy => !toy.inStock)
-        //     else {
-        //         return toys.filter(toy => toy.inStock)
-        //     }
-        // },
+        },
+        toysToShow() {
+            return this.$store.getters.toysToShow
+        },
         // sorttoys() {
         //     var toys = this.$store.getters.toys
         //     toys.sort(function (a, b) {
@@ -45,12 +44,12 @@ import toyList from '@/cmps/toy-list.vue'
         addToy() {
             this.$store.dispatch({ type: 'saveToys', toy: this.toyToEdit }).then(() => {
                 this.toyToEdit = toyService.getEmptyToy()
-                console.log('after');
-                showMsg('toy added');
+                // console.log('after');
+                // showMsg('toy added');
             })
         },
         setFilter(newFilterBy) {
-            this.filterBy = newFilterBy;
+            this.$store.dispatch({ type: 'setFilter',newFilterBy })
         },
         onToyClicked(toyId) {
             console.log('toyId', toyId);
@@ -66,7 +65,7 @@ import toyList from '@/cmps/toy-list.vue'
     },
     components: {
         toyList,
-        // toyFilter,
+        toyFilter,
         // userMsg,
         // loading,
     }

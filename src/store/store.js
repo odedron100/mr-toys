@@ -9,7 +9,7 @@ Vue.use(Vuex)
 export default new Vuex.Store({
   state: {
     toyList: null,
-    currentFilterBy: 'text',
+    currentFilterBy: 'all',
   },
   getters: {
     toys(state) {
@@ -18,6 +18,15 @@ export default new Vuex.Store({
     doneToys(state) {
       if (!state.toyList) return;
       return state.toyList.filter(toy => toy.isDone).length
+    },
+    toysToShow(state) {
+      var toys = state.toyList
+      console.log('state.currentFilterBy', state.currentFilterBy);
+      if (state.currentFilterBy === 'all') return toys;
+      else if (state.currentFilterBy === 'in Stock') return toys.filter(toy => toy.inStock)
+      else {
+        return toys.filter(toy => !toy.inStock)
+      }
     },
   },
   mutations: {
@@ -51,6 +60,10 @@ export default new Vuex.Store({
       toyService.save(toy)
       state.toyList.splice(idxToUpdate, 1, toy);
     },
+    filterBy(state, { filter }) {
+      console.log('filter', filter);
+      state.currentFilterBy = filter;
+    }
   },
   actions: {
     loadToys(context) {
@@ -88,6 +101,16 @@ export default new Vuex.Store({
           throw new Error('Cannot remove toy');
         })
     },
+    setFilter(context, { newFilterBy }) {
+      // return toyService.filter(newFilterBy)
+      //   .then((filter) => {
+      context.commit({ type: 'filterBy', filter: newFilterBy })
+      //     })
+      //     .catch(err => {
+      //       console.log('Store: Cannot filter toy', err);
+      //       throw new Error('Cannot filter toy');
+      //     })
+    }
   },
   modules: {
     // todoStore
