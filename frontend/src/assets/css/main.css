@@ -1,0 +1,41 @@
+@import "./view/toy-app.css";
+@import "./view/home-page.css";
+@import "./view/toy-details.css";
+@import "./view/toy-edit.css";
+@import "./cmps/toy-list.css";
+@import "./cmps/toy-preview.css";
+@import "./cmps/event-bus.css";
+@import "./cmps/filter.css";
+body {
+    max-width: 650px;
+    margin:auto;
+    padding: 10px;
+    font-family: 'Raleway', sans-serif;
+}
+ a {
+     color: rgb(65, 44, 5);
+ }
+
+ button{
+     cursor: pointer;
+ }
+
+/*
+ .loading{
+     position: absolute;
+     right: 0;
+     left: 0;
+     top: 0;
+     bottom: 0;
+ }
+
+ .loading-gif{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+ }
+
+ .loading img{
+     width: 50px;
+ } */

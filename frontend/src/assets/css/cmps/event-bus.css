@@ -1,0 +1,17 @@
+.alert {
+    color:white;
+    padding: 10px;
+    font-size: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(16, 11, 11);
+    text-align: center;
+}
+
+.alert-success {
+    background-color: rgb(15, 122, 15);
+}
+.alert-danger {
+    background-color: rgb(122, 11, 11);
+}

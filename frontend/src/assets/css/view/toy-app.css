@@ -1,0 +1,45 @@
+ .toy-app-container{
+     width: 90%;
+     margin: auto;
+     height: 100vh;
+     display: flex;
+     flex-direction: column;
+ }
+
+ .toy-app{
+     width: 100%;
+     /* background-color: aqua; */
+ }
+
+ .add-toy-container{
+     width: 100%;
+ }
+
+ .add-toy-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100px;
+    padding: 20px;
+ }
+
+ .add-item-inputs{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .add-toy{
+     width: 25%;
+     display: flex;
+     justify-content: center;
+     margin: auto;
+ }
+
+ .dashboard-link{
+     width: 25%;
+     display: flex;
+     justify-content: center;
+     margin: auto;
+ }
