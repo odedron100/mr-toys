@@ -4,9 +4,9 @@ const { getToys, getToy, deleteToy, updateToy, addToy } = require('./toy.control
 const router = express.Router()
 
 router.get('/', getToys)
-router.put('/:_id/edit', updateToy)
-router.get('/:_id', getToy)
-router.delete('/:_id', deleteToy)
+router.get('/:id', getToy)
+router.delete('/:id', deleteToy)
+router.put('/:id', updateToy)
 router.post('/', addToy)
 
 module.exports = router

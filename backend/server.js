@@ -27,7 +27,7 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 const toyRoutes = require('./api/toy/toy.routes')
-// const userRoutes = require('./api/user/user.routes')
+const userRoutes = require('./api/user/user.routes')
 // const reviewRoutes = require('./api/review/review.routes')
 const { connectSockets } = require('./services/socket.service')
 
@@ -36,7 +36,7 @@ const setupAsyncLocalStorage = require('./middlewares/setupAls.middleware')
 app.all('*', setupAsyncLocalStorage)
 
 app.use('/api/toy', toyRoutes)
-// app.use('/api/user', userRoutes)
+app.use('/api/user', userRoutes)
 // app.use('/api/review', reviewRoutes)
 connectSockets(http, session)
 

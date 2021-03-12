@@ -53,7 +53,7 @@ async function query(filterBy = {}) {
 async function getById(toyId) {
   try {
     const collection = await dbService.getCollection('toy')
-    const toy = await collection.findOne({ '_id': ObjectId(toyId) })
+    const toy = await collection.findOne({ '_id': toyId })
     return toy
   } catch (err) {
     logger.error(`while finding toy ${toyId}`, err)
@@ -67,10 +67,17 @@ async function getById(toyId) {
 
 async function remove(toyId) {
   try {
+    console.log('1111111111111');
     console.log('toyId', toyId);
     const collection = await dbService.getCollection('toy')
-    await collection.deleteOne({ '_id': ObjectId(toyId) })
+    console.log('2222222222222');
+    // console.log('collection', collection);
+    console.log('collection', collection);
+    await collection.deleteOne({ '_id': toyId })
+    console.log('3333333333333');
   } catch (err) {
+    console.log('BLAHHHHHHHH!!!!!');
+    console.log('err', err);
     logger.error(`cannot remove toy ${toyId}`, err)
     throw err
   }
@@ -93,6 +100,7 @@ async function update(toy) {
     //   score: user.score
     // }
     const collection = await dbService.getCollection('toy')
+    console.log('toy to update:', toy);
     await collection.updateOne({ '_id': toy._id }, { $set: toy })
     return toy;
   } catch (err) {

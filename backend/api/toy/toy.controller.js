@@ -30,7 +30,8 @@ async function getToys(req, res) {
 // Get a single toy by id
 async function getToy(req, res) {
   try {
-    const toyId = req.params._id
+    const toyId = req.params.id
+    console.log('toyId controller', toyId);
     const toy = await toyService.getById(toyId)
     res.send(toy)
   } catch (err) {
@@ -73,6 +74,7 @@ async function addToy(req, res) {
 async function updateToy(req, res) {
   try {
     const { name, _id, price, type, inStock } = req.body
+    console.log('req.body', req.body);
     const toy = { name, _id, price, type, inStock }
     const savedToy = await toyService.update(toy)
     res.send(savedToy)
@@ -95,8 +97,8 @@ async function updateToy(req, res) {
 
 async function deleteToy(req, res) {
   try {
-    console.log('req.params._id', req.params._id);
-    const toyId = req.params._id
+    const toyId = req.params.id
+    console.log('toyId delete', toyId);
     await toyService.remove(toyId)
     res.send({ msg: 'Deleted successfully' })
   } catch (err) {

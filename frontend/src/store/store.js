@@ -42,7 +42,7 @@ export default new Vuex.Store({
       state.toyList.splice(idxToRemove, 1);
     },
     addToy(state, { toy }) {
-      console.log('toy', toy);
+
       state.toyList.push(toy);
     },
     done(state, { toyId }) {
@@ -91,6 +91,7 @@ export default new Vuex.Store({
     remove(context, { toyId }) {
       return toyService.remove(toyId)
         .then(() => {
+          console.log('afterRemove-store')
           context.commit({ type: 'removeToy', toyId })
         })
         .catch(err => {

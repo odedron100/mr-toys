@@ -1,17 +1,22 @@
 
 <template>
-  <section class="toy" >
-    <h3 class="item"><h4>name:</h4>{{toy.name}}</h3>
-    <div class="item"><h3>price:</h3>{{toy.price}}</div>
-    <div class="item"><h3>in stock:</h3>{{toy.inStock}}</div>
+  <section class="toy" :style="{backgroundImage: getImageUrl}">
+    <div class="details-container">
+      <h3 class="item title">{{toy.name}}</h3>
+      <div class="item price">{{toy.price}} $</div>
+    </div>
   </section>
 </template>
 <script>
+  import { utilService } from '../services/util.service.js'
   export default {
     props:{
       toy:Object
     },
-    methods: {
+    computed: {
+      getImageUrl() {
+        return `url(https://loremflickr.com/320/240/toystory?lock=${utilService.getRandomInt(1,1000)})`
+      }
     }
   }
 </script>

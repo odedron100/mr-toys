@@ -33,7 +33,9 @@ function getById(id) {
 }
 
 function remove(id) {
+  console.log('remove id in service front', id);
   var url = `toy/${id}`
+  console.log('remove url in service front', url);
   return httpService.delete(url, id)
   return axios.delete(TOY_URL + id).then(res => res.data)
 }
@@ -42,8 +44,8 @@ function remove(id) {
 
 function save(toy) {
   if (toy._id) {
-    var url = `toy/${toy._id}/edit`
-    return httpService.put(url, toy._id)
+    var url = `toy/${toy._id}`
+    return httpService.put(url, toy)
   } else {
     return httpService.post('toy', toy)
   }
