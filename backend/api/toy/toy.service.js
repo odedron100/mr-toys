@@ -53,7 +53,7 @@ async function query(filterBy = {}) {
 async function getById(toyId) {
   try {
     const collection = await dbService.getCollection('toy')
-    const toy = await collection.findOne({ '_id': toyId })
+    const toy = await collection.findOne({ '_id': ObjectId(toyId) })
     return toy
   } catch (err) {
     logger.error(`while finding toy ${toyId}`, err)
@@ -132,7 +132,6 @@ async function add(toy) {
       name: toy.name,
       type: toy.type,
       price: toy.price,
-      _id: _makeId(),
       createAt: Date.now(),
       inStock: true
     }

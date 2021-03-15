@@ -1,0 +1,46 @@
+.toy-details-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.toy-details{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.details-item{
+  display: flex;
+  align-items: center;
+  width: 70%;
+  padding: 20px;
+  justify-content: space-around;
+}
+
+.reviews{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px 10px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.review-list{
+  list-style: none;
+}
+
+.review-list li{
+  border: 1px solid black;
+}
+
+.review-list h3{
+  text-align: center;
+}
+
+.review-list .review-items{
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+}

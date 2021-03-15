@@ -79,7 +79,6 @@ function save(toy) {
 
 function getEmptyToy() {
   return {
-    _id: '',
     name: '',
     price: '',
     type: '',

@@ -6,6 +6,9 @@ import toyEdit from '../views/toy-edit.vue'
 import toyDetails from '../views/toy-details.vue'
 import dashboard from '../views/dashboard.vue'
 import about from '../views/about.vue'
+import loginSignup from '../views/account-manager'
+import reviewApp from '../views/review-app'
+import userDetails from '../views/user-details'
 
 
 Vue.use(VueRouter)
@@ -38,9 +41,24 @@ const routes = [
   },
   {
     path: '/toy/about',
-    name: 'abput',
+    name: 'about',
     component: about
   },
+  {
+    path: '/login',
+    name: 'loginSignup',
+    component: loginSignup
+  },
+  {
+    path: '/review',
+    name: 'review',
+    component: reviewApp
+  },
+  {
+    path: '/user/:id',
+    name: 'user-details',
+    component: userDetails
+  }
 ]
 
 const router = new VueRouter({

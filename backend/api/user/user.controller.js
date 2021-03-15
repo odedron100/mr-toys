@@ -1,11 +1,5 @@
-const express = require('express')
 const userService = require('./user.service')
 const logger = require('../../services/logger.service')
-
-
-const router = express.Router()
-
-// List Of toys
 
 async function getUser(req, res) {
   try {

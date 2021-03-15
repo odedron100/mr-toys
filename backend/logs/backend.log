@@ -228,3 +228,447 @@
 3/12/2021, 11:02:27 PM - INFO - Server is running on port: 3031 | 15 | popo 
 3/13/2021, 12:05:47 AM - INFO - Server is running on port: 3031 | 15 | popo 
 3/13/2021, 12:07:16 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 6:06:28 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:02:13 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:05:12 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:05:30 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:05:36 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:05:40 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:06:07 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:06:15 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:06:46 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:06:50 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:06:54 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:06:57 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:07:08 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:08:29 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:09:09 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:17:04 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:24:56 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:29:26 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:29:33 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:29:35 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:34:56 PM - ERROR - Failed to get user | {} (sid: CVf4IIghrWZZG4pS5lDBJOU_tj8SHWOP)
+3/13/2021, 7:35:31 PM - ERROR - Failed to get user | {} (sid: CVf4IIghrWZZG4pS5lDBJOU_tj8SHWOP)
+3/13/2021, 7:35:47 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:35:49 PM - ERROR - Failed to get user | {} (sid: j3E9yK2iCB6DDeOc53M7v0szoKneA2K6)
+3/13/2021, 7:39:07 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:39:27 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:40:22 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:41:09 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/13/2021, 7:59:51 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 1:54:50 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 2:46:24 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 2:46:36 PM - DEBUG - auth.service - signup with username: oded, fullname: oded (sid: mjzRWgaGaRSV23UuCjHGiqvLYWCvA7bn)
+3/14/2021, 2:46:36 PM - DEBUG - auth.route - new account created: {"username":"oded","password":"$2b$10$rQ0DAjd10XMlBqM9EoGpeuiy67FhTcz0U4DssMBbxHqDeqcMgGWCm","fullname":"oded","score":0,"_id":"604e05acff1c38c06fb8c4d5"} (sid: mjzRWgaGaRSV23UuCjHGiqvLYWCvA7bn)
+3/14/2021, 2:46:36 PM - DEBUG - auth.service - login with username: oded (sid: mjzRWgaGaRSV23UuCjHGiqvLYWCvA7bn)
+3/14/2021, 2:47:26 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 2:47:53 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 4:32:58 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 4:38:26 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 4:48:17 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:15:57 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:17:23 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:17:43 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:20:05 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:20:45 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:23:11 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:23:26 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:24:07 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:24:34 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:25:49 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:27:00 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:27:05 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:27:16 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:27:56 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:30:09 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:32:19 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 5:39:36 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 6:04:56 PM - DEBUG - auth.service - signup with username: oede, fullname: oede (sid: OkZWSCt5LB7QPaBLUd8guLRHpOrcoWmw)
+3/14/2021, 6:04:56 PM - DEBUG - auth.route - new account created: {"username":"oede","password":"$2b$10$SkbWrSGJIFTxg01/0.OYjuBvyI1M.R9YNpYXZmTpoP0j8pqgGno1q","fullname":"oede","score":0,"_id":"604e3428a69db6c86a7c573f"} (sid: OkZWSCt5LB7QPaBLUd8guLRHpOrcoWmw)
+3/14/2021, 6:04:56 PM - DEBUG - auth.service - login with username: oede (sid: OkZWSCt5LB7QPaBLUd8guLRHpOrcoWmw)
+3/14/2021, 6:05:00 PM - INFO - Req from: oede (sid: OkZWSCt5LB7QPaBLUd8guLRHpOrcoWmw)
+3/14/2021, 6:05:18 PM - INFO - Req from: oede (sid: OkZWSCt5LB7QPaBLUd8guLRHpOrcoWmw)
+3/14/2021, 6:05:25 PM - INFO - Req from: oede (sid: OkZWSCt5LB7QPaBLUd8guLRHpOrcoWmw)
+3/14/2021, 6:13:35 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 6:14:01 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 6:14:07 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 6:14:27 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 6:14:36 PM - DEBUG - auth.service - signup with username: de, fullname: d (sid: GL2hLYxkH8FV2-PtLRiH3HfF5QOhtj5J)
+3/14/2021, 6:14:36 PM - DEBUG - auth.route - new account created: {"username":"de","password":"$2b$10$Mb1y5p122vpPjrwQcurb/u1/5mjaeMz.FkHdDGKDbqASWPh0Z6c9W","fullname":"d","score":0,"_id":"604e366cc198eeca554e9f2c"} (sid: GL2hLYxkH8FV2-PtLRiH3HfF5QOhtj5J)
+3/14/2021, 6:14:36 PM - DEBUG - auth.service - login with username: de (sid: GL2hLYxkH8FV2-PtLRiH3HfF5QOhtj5J)
+3/14/2021, 6:14:39 PM - INFO - Req from: d (sid: GL2hLYxkH8FV2-PtLRiH3HfF5QOhtj5J)
+3/14/2021, 6:14:41 PM - ERROR - Failed to add review | {} (sid: GL2hLYxkH8FV2-PtLRiH3HfF5QOhtj5J)
+3/14/2021, 6:14:54 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 6:15:18 PM - DEBUG - auth.service - signup with username: oded, fullname: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:15:18 PM - DEBUG - auth.route - new account created: {"username":"oded","password":"$2b$10$uj7JvUSp4Bv81tDE5mMrRO.UHW4HtBZNQC/5nAXwo85E.dQi2vQne","fullname":"oded","score":0,"_id":"604e369634da64ca74e6278d"} (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:15:18 PM - DEBUG - auth.service - login with username: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:15:18 PM - ERROR - Failed to signup Invalid username or password (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:15:28 PM - DEBUG - auth.service - signup with username: oded, fullname: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:15:28 PM - DEBUG - auth.route - new account created: {"username":"oded","password":"$2b$10$6fC5b18VIXoa1IaYLOxB4OxOk9XYni0vndNE1p97/bV/BmPPvUiES","fullname":"oded","score":0,"_id":"604e36a034da64ca74e6278e"} (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:15:28 PM - DEBUG - auth.service - login with username: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:15:28 PM - ERROR - Failed to signup Invalid username or password (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:15:49 PM - DEBUG - auth.service - signup with username: oded, fullname: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:15:49 PM - DEBUG - auth.route - new account created: {"username":"oded","password":"$2b$10$a2nGV4b803Buhudq7mN6u.TZRz7HNa.SXLrGmqH6Q3GBGjnzhOxA2","fullname":"oded","score":0,"_id":"604e36b534da64ca74e6278f"} (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:15:49 PM - DEBUG - auth.service - login with username: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:15:54 PM - INFO - Req from: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:15:59 PM - INFO - Req from: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:18:25 PM - INFO - Req from: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:19:29 PM - INFO - Req from: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:20:14 PM - INFO - Req from: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:21:00 PM - INFO - Req from: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:21:03 PM - INFO - Req from: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:21:11 PM - INFO - Req from: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:21:49 PM - INFO - Req from: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:21:57 PM - INFO - Req from: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:23:03 PM - INFO - Req from: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:24:36 PM - INFO - Req from: oded (sid: TFg41dbxREG8FGRNnbbdHupV04ug8NBy)
+3/14/2021, 6:24:49 PM - DEBUG - auth.service - login with username: oded (sid: G5-KA7YNva9TCwXRBONvpkzSdZ8of5wD)
+3/14/2021, 6:38:04 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 6:47:10 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 6:47:16 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 6:48:45 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 6:48:49 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 6:48:52 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 6:48:57 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 6:50:47 PM - DEBUG - auth.service - login with username: oded (sid: zIHib76sY1L6nnFoRab6Vsmj90WvvF7i)
+3/14/2021, 6:50:51 PM - INFO - Req from: oded (sid: zIHib76sY1L6nnFoRab6Vsmj90WvvF7i)
+3/14/2021, 6:51:30 PM - INFO - Req from: oded (sid: zIHib76sY1L6nnFoRab6Vsmj90WvvF7i)
+3/14/2021, 6:51:46 PM - INFO - Req from: oded (sid: zIHib76sY1L6nnFoRab6Vsmj90WvvF7i)
+3/14/2021, 6:51:56 PM - INFO - Req from: oded (sid: zIHib76sY1L6nnFoRab6Vsmj90WvvF7i)
+3/14/2021, 6:51:59 PM - INFO - Req from: oded (sid: zIHib76sY1L6nnFoRab6Vsmj90WvvF7i)
+3/14/2021, 6:52:22 PM - INFO - Req from: oded (sid: zIHib76sY1L6nnFoRab6Vsmj90WvvF7i)
+3/14/2021, 6:52:24 PM - INFO - Req from: oded (sid: zIHib76sY1L6nnFoRab6Vsmj90WvvF7i)
+3/14/2021, 6:53:10 PM - INFO - Req from: oded (sid: zIHib76sY1L6nnFoRab6Vsmj90WvvF7i)
+3/14/2021, 6:53:20 PM - INFO - Req from: oded (sid: zIHib76sY1L6nnFoRab6Vsmj90WvvF7i)
+3/14/2021, 6:53:29 PM - INFO - Req from: oded (sid: zIHib76sY1L6nnFoRab6Vsmj90WvvF7i)
+3/14/2021, 6:53:36 PM - INFO - Req from: oded (sid: zIHib76sY1L6nnFoRab6Vsmj90WvvF7i)
+3/14/2021, 6:55:44 PM - INFO - Req from: oded (sid: zIHib76sY1L6nnFoRab6Vsmj90WvvF7i)
+3/14/2021, 6:57:48 PM - INFO - Req from: oded (sid: zIHib76sY1L6nnFoRab6Vsmj90WvvF7i)
+3/14/2021, 6:57:50 PM - INFO - Req from: oded (sid: zIHib76sY1L6nnFoRab6Vsmj90WvvF7i)
+3/14/2021, 6:58:24 PM - INFO - Req from: oded (sid: zIHib76sY1L6nnFoRab6Vsmj90WvvF7i)
+3/14/2021, 6:59:17 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:00:23 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:01:55 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:02:03 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:02:22 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:03:20 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:03:28 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:08:13 PM - DEBUG - auth.service - login with username: oded (sid: G6KJxfMp6NxVXjUA83UE-cogenxuJKMf)
+3/14/2021, 7:08:20 PM - INFO - Req from: oded (sid: G6KJxfMp6NxVXjUA83UE-cogenxuJKMf)
+3/14/2021, 7:08:44 PM - INFO - Req from: oded (sid: G6KJxfMp6NxVXjUA83UE-cogenxuJKMf)
+3/14/2021, 7:34:57 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:35:00 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:36:52 PM - DEBUG - auth.service - login with username: oded (sid: bpVknY7HX_79mB_aeWfmJfzI9u0uS5dx)
+3/14/2021, 7:37:15 PM - INFO - Req from: oded (sid: bpVknY7HX_79mB_aeWfmJfzI9u0uS5dx)
+3/14/2021, 7:37:24 PM - INFO - Req from: oded (sid: bpVknY7HX_79mB_aeWfmJfzI9u0uS5dx)
+3/14/2021, 7:39:09 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:39:14 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:40:13 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:41:08 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:41:11 PM - ERROR - Cannot get reviews | {} (sid: 9WLSEbeT0Bd7qJbLlusGS4QgNGR93Jsw)
+3/14/2021, 7:41:36 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:47:33 PM - DEBUG - auth.service - login with username: oded (sid: DlN0a1Q9NfLRR3yRlKfjtUvlAT1VwWeL)
+3/14/2021, 7:47:40 PM - INFO - Req from: oded (sid: DlN0a1Q9NfLRR3yRlKfjtUvlAT1VwWeL)
+3/14/2021, 7:49:25 PM - INFO - Req from: oded (sid: DlN0a1Q9NfLRR3yRlKfjtUvlAT1VwWeL)
+3/14/2021, 7:50:10 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:50:43 PM - DEBUG - auth.service - login with username: oded (sid: A0t790h0k5-PkjHso_UOewr0l4FJltuu)
+3/14/2021, 7:50:48 PM - INFO - Req from: oded (sid: A0t790h0k5-PkjHso_UOewr0l4FJltuu)
+3/14/2021, 7:50:58 PM - INFO - Req from: oded (sid: A0t790h0k5-PkjHso_UOewr0l4FJltuu)
+3/14/2021, 7:51:01 PM - INFO - Req from: oded (sid: A0t790h0k5-PkjHso_UOewr0l4FJltuu)
+3/14/2021, 7:51:10 PM - INFO - Req from: oded (sid: A0t790h0k5-PkjHso_UOewr0l4FJltuu)
+3/14/2021, 7:52:26 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:52:28 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:52:43 PM - DEBUG - auth.service - login with username: oded (sid: cvtL2A-ipgafrlS5aMlVooSll2oxqFLx)
+3/14/2021, 7:52:46 PM - INFO - Req from: oded (sid: cvtL2A-ipgafrlS5aMlVooSll2oxqFLx)
+3/14/2021, 7:52:52 PM - INFO - Req from: oded (sid: cvtL2A-ipgafrlS5aMlVooSll2oxqFLx)
+3/14/2021, 7:53:06 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:53:18 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:55:01 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:55:28 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 7:55:54 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 8:05:47 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 8:06:11 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 8:06:17 PM - ERROR - Cannot get reviews | {} (sid: 7LFpMroSK6EXtDPuPYwhRhL-RhMTp2zZ)
+3/14/2021, 8:08:26 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 8:30:31 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 8:30:43 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 8:30:54 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 8:51:25 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 8:53:30 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 8:54:03 PM - DEBUG - auth.service - login with username: oded (sid: _esbI0g0rBHR5eoBrMfeP_9qcZhUki1o)
+3/14/2021, 8:54:08 PM - INFO - Req from: oded (sid: _esbI0g0rBHR5eoBrMfeP_9qcZhUki1o)
+3/14/2021, 8:54:18 PM - INFO - Req from: oded (sid: _esbI0g0rBHR5eoBrMfeP_9qcZhUki1o)
+3/14/2021, 8:54:55 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 8:54:59 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 8:55:01 PM - ERROR - Cannot get reviews | {} (sid: DZybyeE6OBQS-gkOJKJgyDfMuc08ESoq)
+3/14/2021, 8:55:05 PM - ERROR - Cannot get reviews | {} (sid: kFoluPWs8mscQENMYjSsCpz8XxoQUZKg)
+3/14/2021, 8:55:16 PM - DEBUG - auth.service - login with username: oded (sid: CrfIlYdCrbAEIOUY0DgN98Z8YStUm-fP)
+3/14/2021, 8:55:20 PM - INFO - Req from: oded (sid: CrfIlYdCrbAEIOUY0DgN98Z8YStUm-fP)
+3/14/2021, 8:55:20 PM - ERROR - Cannot get reviews | {} (sid: CrfIlYdCrbAEIOUY0DgN98Z8YStUm-fP)
+3/14/2021, 8:55:26 PM - INFO - Req from: oded (sid: CrfIlYdCrbAEIOUY0DgN98Z8YStUm-fP)
+3/14/2021, 8:55:26 PM - ERROR - Cannot get reviews | {} (sid: CrfIlYdCrbAEIOUY0DgN98Z8YStUm-fP)
+3/14/2021, 8:56:52 PM - INFO - Req from: oded (sid: CrfIlYdCrbAEIOUY0DgN98Z8YStUm-fP)
+3/14/2021, 8:56:52 PM - ERROR - Cannot get reviews | {} (sid: CrfIlYdCrbAEIOUY0DgN98Z8YStUm-fP)
+3/14/2021, 10:25:55 PM - INFO - Req from: oded (sid: CrfIlYdCrbAEIOUY0DgN98Z8YStUm-fP)
+3/14/2021, 10:25:55 PM - ERROR - Cannot get reviews | {} (sid: CrfIlYdCrbAEIOUY0DgN98Z8YStUm-fP)
+3/14/2021, 10:26:02 PM - DEBUG - auth.service - login with username: oded (sid: Ao1qXBFe5nAbui9yvQLLcUo6FVOF7ygi)
+3/14/2021, 10:26:14 PM - INFO - Req from: oded (sid: Ao1qXBFe5nAbui9yvQLLcUo6FVOF7ygi)
+3/14/2021, 10:26:14 PM - ERROR - Cannot get reviews | {} (sid: Ao1qXBFe5nAbui9yvQLLcUo6FVOF7ygi)
+3/14/2021, 10:26:32 PM - INFO - Req from: oded (sid: Ao1qXBFe5nAbui9yvQLLcUo6FVOF7ygi)
+3/14/2021, 10:26:32 PM - ERROR - Cannot get reviews | {} (sid: Ao1qXBFe5nAbui9yvQLLcUo6FVOF7ygi)
+3/14/2021, 10:29:42 PM - INFO - Req from: oded (sid: Ao1qXBFe5nAbui9yvQLLcUo6FVOF7ygi)
+3/14/2021, 10:29:42 PM - ERROR - Cannot get reviews | {} (sid: Ao1qXBFe5nAbui9yvQLLcUo6FVOF7ygi)
+3/14/2021, 10:31:07 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:31:09 PM - ERROR - Cannot get reviews | {} (sid: jop1VG5VHBURqc9Mb7jw45ejixzM0hqL)
+3/14/2021, 10:31:41 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:31:41 PM - ERROR - Cannot get reviews | {} (sid: bkj6xWJ4tYJKgjGcd5gt753UbHEMdVNj)
+3/14/2021, 10:32:13 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:32:14 PM - ERROR - Cannot get reviews | {} (sid: CO_PePIuEzkxtpWy-AjjgdbkI0ZS2cs8)
+3/14/2021, 10:32:44 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:32:47 PM - ERROR - Cannot get reviews | {} (sid: 8ZEPT1vpoBJ5FOX2T5vb2v-BkUa-3RDy)
+3/14/2021, 10:33:25 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:33:28 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:33:30 PM - ERROR - Cannot get reviews | {} (sid: qvUV9cFS4QI8lfyMO1gkZLsDmQRpPR5a)
+3/14/2021, 10:33:51 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:33:53 PM - ERROR - Cannot get reviews | {} (sid: 7qq-54684BNGH0T1P6rveP93uHwfuwqL)
+3/14/2021, 10:33:55 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:34:16 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:34:18 PM - ERROR - Cannot get reviews | {} (sid: X0veOecksTiuT8bTvmHck0UkODsZ9kES)
+3/14/2021, 10:34:24 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:34:26 PM - ERROR - Cannot get reviews | {} (sid: M16jDMJuOo_6GN69Gqykx7wm4y8BGVZ4)
+3/14/2021, 10:34:29 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:34:41 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:34:43 PM - ERROR - Cannot get reviews | {} (sid: ixdhl799Kz_qBH6CK5FWUtqSZxJIC4y8)
+3/14/2021, 10:34:58 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:35:00 PM - ERROR - Cannot get reviews | {} (sid: tP1sHxPCvOlGHaTPIBmNfy3dLRyUam42)
+3/14/2021, 10:35:07 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:35:10 PM - ERROR - Cannot get reviews | {} (sid: VJ7_ji0gUEGfZdVGSGkm5nrlHduKYArw)
+3/14/2021, 10:35:32 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:35:34 PM - ERROR - Cannot get reviews | {} (sid: 7qJnJhH8pPFVUBwWn_gIhl83bbpXpBqI)
+3/14/2021, 10:36:06 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:36:08 PM - ERROR - Cannot get reviews | {} (sid: XQrTT4It1xZg6UvqniB7PANfhATIq3Hq)
+3/14/2021, 10:36:20 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/14/2021, 10:36:23 PM - ERROR - Cannot get reviews | {} (sid: oMzHQRUBpPaDi3uaYLojpqeyuoL4c4X_)
+3/14/2021, 10:37:08 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 12:17:49 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 12:19:37 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 12:20:22 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 12:20:38 AM - DEBUG - auth.service - login with username: oded (sid: _LJTyxK43MilPLfidQOuvu64X8g_WtmV)
+3/15/2021, 12:20:41 AM - INFO - Req from: oded (sid: _LJTyxK43MilPLfidQOuvu64X8g_WtmV)
+3/15/2021, 12:20:47 AM - INFO - Req from: oded (sid: _LJTyxK43MilPLfidQOuvu64X8g_WtmV)
+3/15/2021, 12:21:12 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 12:21:48 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 12:21:52 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 12:22:05 AM - DEBUG - auth.service - login with username: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:22:08 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:22:13 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:24:10 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:25:28 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:25:30 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:26:29 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:26:32 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:26:44 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:27:38 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:27:49 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:28:22 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:30:12 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:30:23 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:31:33 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:31:36 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:31:41 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:31:44 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:33:00 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:33:06 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:36:59 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:37:55 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:37:59 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:39:07 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:39:14 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:39:55 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:40:49 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:40:51 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:41:13 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:41:25 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:41:34 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:42:00 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:42:04 AM - INFO - Req from: oded (sid: kUz08XjtWFRO8cBKROnAMqy8WkgX-EAO)
+3/15/2021, 12:42:44 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 12:52:24 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 12:53:24 AM - DEBUG - auth.service - login with username: oded (sid: MZkTQrphlZ3sNol4dSrrB_yasVNXvkT0)
+3/15/2021, 12:53:27 AM - INFO - Req from: oded (sid: MZkTQrphlZ3sNol4dSrrB_yasVNXvkT0)
+3/15/2021, 12:57:42 AM - INFO - Req from: oded (sid: MZkTQrphlZ3sNol4dSrrB_yasVNXvkT0)
+3/15/2021, 12:57:42 AM - ERROR - Cannot get reviews | {} (sid: MZkTQrphlZ3sNol4dSrrB_yasVNXvkT0)
+3/15/2021, 12:58:16 AM - INFO - Req from: oded (sid: MZkTQrphlZ3sNol4dSrrB_yasVNXvkT0)
+3/15/2021, 12:58:16 AM - ERROR - Cannot get reviews | {} (sid: MZkTQrphlZ3sNol4dSrrB_yasVNXvkT0)
+3/15/2021, 12:58:18 AM - INFO - Req from: oded (sid: MZkTQrphlZ3sNol4dSrrB_yasVNXvkT0)
+3/15/2021, 12:58:18 AM - ERROR - Cannot get reviews | {} (sid: MZkTQrphlZ3sNol4dSrrB_yasVNXvkT0)
+3/15/2021, 1:01:16 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:01:20 AM - ERROR - Cannot get reviews | {} (sid: yNGfSomEKXeaEZ26P_fb9TytM0YgNios)
+3/15/2021, 1:02:19 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:02:33 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:02:47 AM - DEBUG - auth.service - login with username: oded (sid: apcQSMp_UzUzQUuu6AE0u3Lwr23YwPaP)
+3/15/2021, 1:02:51 AM - INFO - Req from: oded (sid: apcQSMp_UzUzQUuu6AE0u3Lwr23YwPaP)
+3/15/2021, 1:04:08 AM - INFO - Req from: oded (sid: apcQSMp_UzUzQUuu6AE0u3Lwr23YwPaP)
+3/15/2021, 1:06:02 AM - INFO - Req from: oded (sid: apcQSMp_UzUzQUuu6AE0u3Lwr23YwPaP)
+3/15/2021, 1:06:11 AM - INFO - Req from: oded (sid: apcQSMp_UzUzQUuu6AE0u3Lwr23YwPaP)
+3/15/2021, 1:07:57 AM - INFO - Req from: oded (sid: apcQSMp_UzUzQUuu6AE0u3Lwr23YwPaP)
+3/15/2021, 1:09:26 AM - INFO - Req from: oded (sid: apcQSMp_UzUzQUuu6AE0u3Lwr23YwPaP)
+3/15/2021, 1:09:28 AM - INFO - Req from: oded (sid: apcQSMp_UzUzQUuu6AE0u3Lwr23YwPaP)
+3/15/2021, 1:09:47 AM - INFO - Req from: oded (sid: apcQSMp_UzUzQUuu6AE0u3Lwr23YwPaP)
+3/15/2021, 1:10:55 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:11:40 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:11:45 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:13:09 AM - DEBUG - auth.service - login with username: oded (sid: bbX67ueg0YC0jBlc2a8xxm3JYvVqJoPQ)
+3/15/2021, 1:13:12 AM - INFO - Req from: oded (sid: bbX67ueg0YC0jBlc2a8xxm3JYvVqJoPQ)
+3/15/2021, 1:13:41 AM - INFO - Req from: oded (sid: bbX67ueg0YC0jBlc2a8xxm3JYvVqJoPQ)
+3/15/2021, 1:13:44 AM - INFO - Req from: oded (sid: bbX67ueg0YC0jBlc2a8xxm3JYvVqJoPQ)
+3/15/2021, 1:13:55 AM - INFO - Req from: oded (sid: bbX67ueg0YC0jBlc2a8xxm3JYvVqJoPQ)
+3/15/2021, 1:14:13 AM - INFO - Req from: oded (sid: bbX67ueg0YC0jBlc2a8xxm3JYvVqJoPQ)
+3/15/2021, 1:15:17 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:15:38 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:16:10 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:16:17 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:01:40 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:01:45 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:01:49 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:09:37 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:10:44 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:16:19 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:16:31 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:16:37 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:16:58 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:17:21 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:17:26 AM - ERROR - Cannot get reviews | {} (sid: aE3-Z6cdB59SwA49e4MEDlxR6WL_OAdO)
+3/15/2021, 9:17:53 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:17:59 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:18:03 AM - ERROR - Cannot get reviews | {} (sid: qZjn1pumAfK_j0DkiQJMK_PhZAf2DgA4)
+3/15/2021, 9:18:27 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:19:03 AM - ERROR - Cannot get reviews | {} (sid: 8WISd0W3ZaQ_wJzlV7ZakILmjOJEh4Xf)
+3/15/2021, 9:21:39 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:21:42 AM - ERROR - Cannot get reviews | {} (sid: 2aoq4xHMgAnpHx3qf1r-hZlUCHIXqdVM)
+3/15/2021, 9:22:12 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:22:42 AM - DEBUG - auth.service - login with username: oded (sid: Dg91FjgOo2SbqULOrsMCwjBNBEpBDZtU)
+3/15/2021, 9:22:45 AM - INFO - Req from: oded (sid: Dg91FjgOo2SbqULOrsMCwjBNBEpBDZtU)
+3/15/2021, 9:22:52 AM - INFO - Req from: oded (sid: Dg91FjgOo2SbqULOrsMCwjBNBEpBDZtU)
+3/15/2021, 9:23:28 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:24:12 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:24:37 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:25:03 AM - DEBUG - auth.service - login with username: oded (sid: uGeFES1xOPAVA7Jtv_3dekwiYS3zfBrU)
+3/15/2021, 9:25:09 AM - INFO - Req from: oded (sid: uGeFES1xOPAVA7Jtv_3dekwiYS3zfBrU)
+3/15/2021, 9:25:14 AM - INFO - Req from: oded (sid: uGeFES1xOPAVA7Jtv_3dekwiYS3zfBrU)
+3/15/2021, 9:25:34 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:25:38 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:26:02 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:26:09 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:26:58 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:27:04 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:27:09 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:27:49 AM - DEBUG - auth.service - login with username: oded (sid: IlzKpHGzgXzxNHDmWES51w77Zi2BkwSM)
+3/15/2021, 9:27:52 AM - INFO - Req from: oded (sid: IlzKpHGzgXzxNHDmWES51w77Zi2BkwSM)
+3/15/2021, 9:28:27 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:28:38 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:30:15 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:31:18 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:31:25 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:32:04 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:32:56 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:33:14 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:33:26 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:34:20 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:35:14 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:35:17 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:36:26 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:37:21 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:38:58 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:40:01 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:40:24 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:40:46 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:43:05 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:43:21 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:43:22 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:43:28 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:44:01 AM - DEBUG - auth.service - login with username: oded (sid: Jkz-uantpkxESu9eWcS25JXEIkXCsM63)
+3/15/2021, 9:44:04 AM - INFO - Req from: oded (sid: Jkz-uantpkxESu9eWcS25JXEIkXCsM63)
+3/15/2021, 9:45:39 AM - INFO - Req from: oded (sid: Jkz-uantpkxESu9eWcS25JXEIkXCsM63)
+3/15/2021, 9:45:50 AM - INFO - Req from: oded (sid: Jkz-uantpkxESu9eWcS25JXEIkXCsM63)
+3/15/2021, 9:45:57 AM - INFO - Req from: oded (sid: Jkz-uantpkxESu9eWcS25JXEIkXCsM63)
+3/15/2021, 9:47:01 AM - INFO - Req from: oded (sid: Jkz-uantpkxESu9eWcS25JXEIkXCsM63)
+3/15/2021, 9:47:04 AM - INFO - Req from: oded (sid: Jkz-uantpkxESu9eWcS25JXEIkXCsM63)
+3/15/2021, 9:47:13 AM - INFO - Req from: oded (sid: Jkz-uantpkxESu9eWcS25JXEIkXCsM63)
+3/15/2021, 9:48:07 AM - INFO - Req from: oded (sid: Jkz-uantpkxESu9eWcS25JXEIkXCsM63)
+3/15/2021, 9:48:44 AM - INFO - Req from: oded (sid: Jkz-uantpkxESu9eWcS25JXEIkXCsM63)
+3/15/2021, 9:49:51 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:53:37 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:53:44 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:55:47 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:56:31 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:56:36 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:56:51 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:57:06 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:57:33 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 9:57:37 AM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:09:06 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:09:25 PM - DEBUG - auth.service - login with username: oded (sid: wrFyZ7bvuL5-1yiKcMz4_MY4Kuk60QZR)
+3/15/2021, 1:10:05 PM - INFO - Req from: oded (sid: wrFyZ7bvuL5-1yiKcMz4_MY4Kuk60QZR)
+3/15/2021, 1:12:07 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:12:24 PM - DEBUG - auth.service - login with username: oded (sid: mh9Egfi5RXQ3NVQsPsLGAdX0nizsiMKG)
+3/15/2021, 1:12:28 PM - INFO - Req from: oded (sid: mh9Egfi5RXQ3NVQsPsLGAdX0nizsiMKG)
+3/15/2021, 1:15:00 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:15:46 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:18:52 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:19:02 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:19:15 PM - DEBUG - auth.service - login with username: oded (sid: S2xWmOpbXDdVsCsSYzp-a3lnGC8HMQJW)
+3/15/2021, 1:19:21 PM - INFO - Req from: oded (sid: S2xWmOpbXDdVsCsSYzp-a3lnGC8HMQJW)
+3/15/2021, 1:19:25 PM - ERROR - Failed to add review | {} (sid: S2xWmOpbXDdVsCsSYzp-a3lnGC8HMQJW)
+3/15/2021, 1:20:40 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:21:11 PM - DEBUG - auth.service - login with username: oded (sid: ybS2U4SN-NRq8sOW3w1XArJAn-hfXO_W)
+3/15/2021, 1:21:22 PM - INFO - Req from: oded (sid: ybS2U4SN-NRq8sOW3w1XArJAn-hfXO_W)
+3/15/2021, 1:21:26 PM - ERROR - Failed to add review | {} (sid: ybS2U4SN-NRq8sOW3w1XArJAn-hfXO_W)
+3/15/2021, 1:23:20 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:23:30 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:23:59 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:24:05 PM - DEBUG - auth.service - login with username: oded (sid: T2FBAKH6xVKFU7iJe9kkMFnXxd-rS55i)
+3/15/2021, 1:24:09 PM - INFO - Req from: oded (sid: T2FBAKH6xVKFU7iJe9kkMFnXxd-rS55i)
+3/15/2021, 1:26:54 PM - INFO - Req from: oded (sid: T2FBAKH6xVKFU7iJe9kkMFnXxd-rS55i)
+3/15/2021, 1:27:09 PM - INFO - Req from: oded (sid: T2FBAKH6xVKFU7iJe9kkMFnXxd-rS55i)
+3/15/2021, 1:28:56 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:29:07 PM - DEBUG - auth.service - login with username: oded (sid: ibDmZgSTuLJTWGb6U0gijFydBsX9RwYX)
+3/15/2021, 1:29:12 PM - INFO - Req from: oded (sid: ibDmZgSTuLJTWGb6U0gijFydBsX9RwYX)
+3/15/2021, 1:31:12 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:32:41 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:35:06 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:36:02 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:36:07 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:37:37 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:37:39 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:37:41 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:39:08 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:39:10 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:39:20 PM - DEBUG - auth.service - login with username: oded (sid: ZTtenXRY_5bqduNayQxo9s-MQNS2UYaG)
+3/15/2021, 1:39:24 PM - INFO - Req from: oded (sid: ZTtenXRY_5bqduNayQxo9s-MQNS2UYaG)
+3/15/2021, 1:40:14 PM - INFO - Req from: oded (sid: ZTtenXRY_5bqduNayQxo9s-MQNS2UYaG)
+3/15/2021, 1:41:15 PM - INFO - Req from: oded (sid: ZTtenXRY_5bqduNayQxo9s-MQNS2UYaG)
+3/15/2021, 1:41:29 PM - INFO - Req from: oded (sid: ZTtenXRY_5bqduNayQxo9s-MQNS2UYaG)
+3/15/2021, 1:41:39 PM - INFO - Req from: oded (sid: ZTtenXRY_5bqduNayQxo9s-MQNS2UYaG)
+3/15/2021, 1:42:40 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:43:06 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:43:08 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:45:15 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:45:19 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:45:20 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:48:36 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:50:56 PM - INFO - Server is running on port: 3031 | 15 | popo 
+3/15/2021, 1:52:58 PM - DEBUG - auth.service - login with username: oded (sid: J158gMgCVQQRePXJ2ZhPlpTZLDyZKHqB)
+3/15/2021, 1:53:03 PM - INFO - Req from: oded (sid: J158gMgCVQQRePXJ2ZhPlpTZLDyZKHqB)
+3/15/2021, 1:53:10 PM - INFO - Req from: oded (sid: J158gMgCVQQRePXJ2ZhPlpTZLDyZKHqB)
+3/15/2021, 1:53:16 PM - INFO - Req from: oded (sid: J158gMgCVQQRePXJ2ZhPlpTZLDyZKHqB)
+3/15/2021, 1:54:59 PM - INFO - Req from: oded (sid: J158gMgCVQQRePXJ2ZhPlpTZLDyZKHqB)
+3/15/2021, 1:55:25 PM - INFO - Req from: oded (sid: J158gMgCVQQRePXJ2ZhPlpTZLDyZKHqB)
+3/15/2021, 1:56:03 PM - INFO - Req from: oded (sid: J158gMgCVQQRePXJ2ZhPlpTZLDyZKHqB)
+3/15/2021, 1:56:27 PM - INFO - Req from: oded (sid: J158gMgCVQQRePXJ2ZhPlpTZLDyZKHqB)
+3/15/2021, 1:56:47 PM - INFO - Req from: oded (sid: J158gMgCVQQRePXJ2ZhPlpTZLDyZKHqB)
+3/15/2021, 2:02:47 PM - INFO - Req from: oded (sid: J158gMgCVQQRePXJ2ZhPlpTZLDyZKHqB)
+3/15/2021, 2:06:42 PM - INFO - Req from: oded (sid: J158gMgCVQQRePXJ2ZhPlpTZLDyZKHqB)
+3/15/2021, 2:07:46 PM - INFO - Req from: oded (sid: J158gMgCVQQRePXJ2ZhPlpTZLDyZKHqB)
+3/15/2021, 2:08:49 PM - INFO - Req from: oded (sid: J158gMgCVQQRePXJ2ZhPlpTZLDyZKHqB)

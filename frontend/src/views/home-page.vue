@@ -10,7 +10,14 @@
       </div>
       <div class="imgs-container">
         <img class="toy-img" src="../styles/imgs/all.png">
-
       </div>
     </div>
     </template>
+<script>
+  import accountManager from './account-manager.vue'
+
+  export default {
+    components: {
+    }
+  }
+</script>

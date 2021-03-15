@@ -2,14 +2,14 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 import { toyService } from "../services/toy-service.js";
 import { utilService } from '../services/util.service.js';
-// import { todoStore } from "../store/store.toy.js"
+import { userStore } from "../store/user.store.js";
+import { reviewStore } from "../store/review.store.js";
 
 Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
     toyList: null,
-    currPage: 'homePage',
     filter: {
       name: '',
       isInStock: 'all'
@@ -101,6 +101,7 @@ export default new Vuex.Store({
     },
   },
   modules: {
-    // todoStore
+    userStore,
+    reviewStore
   }
 })

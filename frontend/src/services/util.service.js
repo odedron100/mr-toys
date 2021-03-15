@@ -20,8 +20,15 @@ function sortByName(toys) {
   })
 }
 
+function formatFilter(filterBy) {
+  if (!filterBy) return '';
+  const filterKeys = Object.keys(filterBy);
+  return filterKeys.map(key => `${key}=${filterBy[key]}`).join('&')
+}
+
 export const utilService = {
   makeId,
   getRandomInt,
-  sortByName
+  sortByName,
+  formatFilter
 }
